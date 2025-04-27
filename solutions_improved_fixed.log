@@ -1,0 +1,1134 @@
+====== Results for 1.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.20961538
+Sensors placed at locations (indices < N_SENSOR_TYPES): 9, 10, 13 (3 total)
+POIs covered: 13/40 (32.50%)
+-------------------------------------------
+====== Results for 10.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.20714286
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 100.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.18181818
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 9/33 (27.27%)
+-------------------------------------------
+====== Results for 101.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.19047619
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 5, 8, 12 (4 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 102.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.13205128
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 7, 9 (3 total)
+POIs covered: 11/39 (28.21%)
+-------------------------------------------
+====== Results for 103.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.25797872
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 10, 12 (3 total)
+POIs covered: 18/47 (38.30%)
+-------------------------------------------
+====== Results for 104.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.23244147
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 16/46 (34.78%)
+-------------------------------------------
+====== Results for 105.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.26136364
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 12 (3 total)
+POIs covered: 17/44 (38.64%)
+-------------------------------------------
+====== Results for 106.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.16666667
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 8, 10, 12 (4 total)
+POIs covered: 14/42 (33.33%)
+-------------------------------------------
+====== Results for 107.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.27575758
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 11 (2 total)
+POIs covered: 11/30 (36.67%)
+-------------------------------------------
+====== Results for 108.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.18774704
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 8, 9, 11 (4 total)
+POIs covered: 17/46 (36.96%)
+-------------------------------------------
+====== Results for 109.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.17715618
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10, 11 (4 total)
+POIs covered: 14/39 (35.90%)
+-------------------------------------------
+====== Results for 11.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22777778
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 9 (3 total)
+POIs covered: 17/45 (37.78%)
+-------------------------------------------
+====== Results for 110.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.23467230
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 14/43 (32.56%)
+-------------------------------------------
+====== Results for 111.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.13125000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 10, 16 (3 total)
+POIs covered: 9/40 (22.50%)
+-------------------------------------------
+====== Results for 112.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.32905983
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 10, 13 (3 total)
+POIs covered: 20/45 (44.44%)
+-------------------------------------------
+====== Results for 113.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.21212121
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 11 (2 total)
+POIs covered: 10/33 (30.30%)
+-------------------------------------------
+====== Results for 114.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.20833333
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10, 12 (3 total)
+POIs covered: 15/45 (33.33%)
+-------------------------------------------
+====== Results for 115.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.26524390
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 16/41 (39.02%)
+-------------------------------------------
+====== Results for 116.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.19615385
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 5, 8, 9 (4 total)
+POIs covered: 14/40 (35.00%)
+-------------------------------------------
+====== Results for 117.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.20454545
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 15/44 (34.09%)
+-------------------------------------------
+====== Results for 118.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.24796748
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 7, 11, 12 (4 total)
+POIs covered: 17/41 (41.46%)
+-------------------------------------------
+====== Results for 119.bmp ======
+Solution found in generation: 6
+Feasible: No
+Fitness: 0.21353066
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10, 11 (4 total)
+POIs covered: 17/43 (39.53%)
+-------------------------------------------
+====== Results for 12.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.21171171
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 8, 10, 11 (4 total)
+POIs covered: 14/37 (37.84%)
+-------------------------------------------
+====== Results for 120.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.13888889
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 5, 8 (3 total)
+POIs covered: 13/45 (28.89%)
+-------------------------------------------
+====== Results for 121.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.23333333
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 11/33 (33.33%)
+-------------------------------------------
+====== Results for 122.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.20058140
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6, 12 (3 total)
+POIs covered: 14/43 (32.56%)
+-------------------------------------------
+====== Results for 123.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.09330144
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6 (2 total)
+POIs covered: 7/38 (18.42%)
+-------------------------------------------
+====== Results for 124.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.23333333
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 11, 12 (4 total)
+POIs covered: 14/35 (40.00%)
+-------------------------------------------
+====== Results for 125.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.15964523
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 8, 9, 11 (4 total)
+POIs covered: 14/41 (34.15%)
+-------------------------------------------
+====== Results for 126.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.15311005
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 11/38 (28.95%)
+-------------------------------------------
+====== Results for 127.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.13260870
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 8, 9 (3 total)
+POIs covered: 13/46 (28.26%)
+-------------------------------------------
+====== Results for 128.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.15942029
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 5, 8 (3 total)
+POIs covered: 15/46 (32.61%)
+-------------------------------------------
+====== Results for 129.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.20649351
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 9, 11 (3 total)
+POIs covered: 12/35 (34.29%)
+-------------------------------------------
+====== Results for 13.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.11829268
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 11/41 (26.83%)
+-------------------------------------------
+====== Results for 130.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.26239316
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 9, 13 (3 total)
+POIs covered: 17/45 (37.78%)
+-------------------------------------------
+====== Results for 131.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.13333333
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 9, 11 (4 total)
+POIs covered: 12/40 (30.00%)
+-------------------------------------------
+====== Results for 132.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.25289575
+Sensors placed at locations (indices < N_SENSOR_TYPES): 10, 13 (2 total)
+POIs covered: 12/37 (32.43%)
+-------------------------------------------
+====== Results for 133.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.14527027
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 9, 12 (3 total)
+POIs covered: 10/37 (27.03%)
+-------------------------------------------
+====== Results for 134.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.16111111
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 14/45 (31.11%)
+-------------------------------------------
+====== Results for 135.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22727273
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 9, 11 (4 total)
+POIs covered: 18/44 (40.91%)
+-------------------------------------------
+====== Results for 136.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.14324324
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10 (2 total)
+POIs covered: 9/37 (24.32%)
+-------------------------------------------
+====== Results for 137.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.23678647
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 6, 8, 11 (4 total)
+POIs covered: 18/43 (41.86%)
+-------------------------------------------
+====== Results for 138.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.18191057
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 6, 7, 11, 12 (5 total)
+POIs covered: 16/41 (39.02%)
+-------------------------------------------
+====== Results for 139.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.26363636
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 6, 10 (3 total)
+POIs covered: 14/35 (40.00%)
+-------------------------------------------
+====== Results for 14.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.20842572
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 9, 11 (4 total)
+POIs covered: 16/41 (39.02%)
+-------------------------------------------
+====== Results for 140.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.15252525
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 6, 11 (3 total)
+POIs covered: 13/45 (28.89%)
+-------------------------------------------
+====== Results for 141.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.18333333
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 9 (3 total)
+POIs covered: 11/33 (33.33%)
+-------------------------------------------
+====== Results for 142.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.05000000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 7/35 (20.00%)
+-------------------------------------------
+====== Results for 143.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.21078431
+Sensors placed at locations (indices < N_SENSOR_TYPES): 10, 12 (2 total)
+POIs covered: 10/34 (29.41%)
+-------------------------------------------
+====== Results for 144.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.23626374
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 14 (2 total)
+POIs covered: 12/39 (30.77%)
+-------------------------------------------
+====== Results for 145.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.15151515
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 8, 9, 11 (4 total)
+POIs covered: 14/42 (33.33%)
+-------------------------------------------
+====== Results for 146.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22488038
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 12/38 (31.58%)
+-------------------------------------------
+====== Results for 147.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.16768293
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10, 11 (3 total)
+POIs covered: 12/41 (29.27%)
+-------------------------------------------
+====== Results for 148.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.11497326
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 9 (2 total)
+POIs covered: 7/34 (20.59%)
+-------------------------------------------
+====== Results for 149.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.25604396
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10, 12 (3 total)
+POIs covered: 13/35 (37.14%)
+-------------------------------------------
+====== Results for 15.bmp ======
+Solution found in generation: 8
+Feasible: No
+Fitness: 0.17063492
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 7, 14 (3 total)
+POIs covered: 10/36 (27.78%)
+-------------------------------------------
+====== Results for 150.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.29722222
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 12 (3 total)
+POIs covered: 19/45 (42.22%)
+-------------------------------------------
+====== Results for 151.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.16818182
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 9 (3 total)
+POIs covered: 14/44 (31.82%)
+-------------------------------------------
+====== Results for 152.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.13095238
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 12 (2 total)
+POIs covered: 6/28 (21.43%)
+-------------------------------------------
+====== Results for 153.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.15891473
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 5, 7, 11 (4 total)
+POIs covered: 14/43 (32.56%)
+-------------------------------------------
+====== Results for 154.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.21141649
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 13/43 (30.23%)
+-------------------------------------------
+====== Results for 155.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.13214286
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6, 12 (3 total)
+POIs covered: 9/35 (25.71%)
+-------------------------------------------
+====== Results for 156.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22488038
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10 (2 total)
+POIs covered: 12/38 (31.58%)
+-------------------------------------------
+====== Results for 157.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.22261072
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10 (3 total)
+POIs covered: 14/39 (35.90%)
+-------------------------------------------
+====== Results for 158.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.20598007
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 9, 11, 14 (4 total)
+POIs covered: 15/43 (34.88%)
+-------------------------------------------
+====== Results for 159.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.21212121
+Sensors placed at locations (indices < N_SENSOR_TYPES): 10, 12 (2 total)
+POIs covered: 13/44 (29.55%)
+-------------------------------------------
+====== Results for 16.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.15151515
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 8, 9 (4 total)
+POIs covered: 14/44 (31.82%)
+-------------------------------------------
+====== Results for 160.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.17229730
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11, 12 (3 total)
+POIs covered: 11/37 (29.73%)
+-------------------------------------------
+====== Results for 161.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.12586207
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10 (3 total)
+POIs covered: 8/29 (27.59%)
+-------------------------------------------
+====== Results for 162.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.18217054
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 7, 9 (3 total)
+POIs covered: 15/43 (34.88%)
+-------------------------------------------
+====== Results for 17.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.23214286
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 10, 12 (3 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 18.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.23297872
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10 (3 total)
+POIs covered: 18/47 (38.30%)
+-------------------------------------------
+====== Results for 19.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.30665025
+Sensors placed at locations (indices < N_SENSOR_TYPES): 11, 12, 14 (3 total)
+POIs covered: 12/29 (41.38%)
+-------------------------------------------
+====== Results for 2.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.26759411
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 13 (3 total)
+POIs covered: 18/47 (38.30%)
+-------------------------------------------
+====== Results for 20.bmp ======
+Solution found in generation: 7
+Feasible: No
+Fitness: 0.14102564
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 11, 12 (4 total)
+POIs covered: 12/39 (30.77%)
+-------------------------------------------
+====== Results for 21.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.26556777
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 16/42 (38.10%)
+-------------------------------------------
+====== Results for 22.bmp ======
+Solution found in generation: 9
+Feasible: No
+Fitness: 0.25249169
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 10, 12, 14 (4 total)
+POIs covered: 17/43 (39.53%)
+-------------------------------------------
+====== Results for 23.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.21678322
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10 (2 total)
+POIs covered: 12/39 (30.77%)
+-------------------------------------------
+====== Results for 24.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.23214286
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 25.bmp ======
+Solution found in generation: 7
+Feasible: No
+Fitness: 0.23492063
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 7, 9, 13 (4 total)
+POIs covered: 17/45 (37.78%)
+-------------------------------------------
+====== Results for 26.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.19518272
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 11 (3 total)
+POIs covered: 13/43 (30.23%)
+-------------------------------------------
+====== Results for 27.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.17982456
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 11 (2 total)
+POIs covered: 10/38 (26.32%)
+-------------------------------------------
+====== Results for 28.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.09090909
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 6/33 (18.18%)
+-------------------------------------------
+====== Results for 29.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.15769231
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 6, 9 (3 total)
+POIs covered: 12/39 (30.77%)
+-------------------------------------------
+====== Results for 3.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.13809524
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 10/42 (23.81%)
+-------------------------------------------
+====== Results for 30.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.18660287
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 4, 7, 11 (4 total)
+POIs covered: 14/38 (36.84%)
+-------------------------------------------
+====== Results for 31.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.17575758
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6 (2 total)
+POIs covered: 12/45 (26.67%)
+-------------------------------------------
+====== Results for 32.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.25183150
+Sensors placed at locations (indices < N_SENSOR_TYPES): 9, 11, 14 (3 total)
+POIs covered: 14/39 (35.90%)
+-------------------------------------------
+====== Results for 33.bmp ======
+Solution found in generation: 6
+Feasible: No
+Fitness: 0.20757576
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 9, 13, 15 (4 total)
+POIs covered: 15/44 (34.09%)
+-------------------------------------------
+====== Results for 34.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.19146341
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 9 (3 total)
+POIs covered: 14/41 (34.15%)
+-------------------------------------------
+====== Results for 35.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.17558140
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 9 (3 total)
+POIs covered: 14/43 (32.56%)
+-------------------------------------------
+====== Results for 36.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.20232558
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10 (2 total)
+POIs covered: 13/43 (30.23%)
+-------------------------------------------
+====== Results for 37.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22868217
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 9 (3 total)
+POIs covered: 17/43 (39.53%)
+-------------------------------------------
+====== Results for 38.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.18623482
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 11 (2 total)
+POIs covered: 10/38 (26.32%)
+-------------------------------------------
+====== Results for 39.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.21842105
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 6, 10 (3 total)
+POIs covered: 14/38 (36.84%)
+-------------------------------------------
+====== Results for 4.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.18233083
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 4, 14 (3 total)
+POIs covered: 11/38 (28.95%)
+-------------------------------------------
+====== Results for 40.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.27995392
+Sensors placed at locations (indices < N_SENSOR_TYPES): 11, 13, 14 (3 total)
+POIs covered: 12/31 (38.71%)
+-------------------------------------------
+====== Results for 41.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.22500000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 15/40 (37.50%)
+-------------------------------------------
+====== Results for 42.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.14285714
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 5, 8 (3 total)
+POIs covered: 13/42 (30.95%)
+-------------------------------------------
+====== Results for 43.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.23639775
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 11, 13 (4 total)
+POIs covered: 16/41 (39.02%)
+-------------------------------------------
+====== Results for 44.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.18972332
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 15/46 (32.61%)
+-------------------------------------------
+====== Results for 45.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.13131313
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6 (2 total)
+POIs covered: 10/45 (22.22%)
+-------------------------------------------
+====== Results for 46.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.24175824
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 12 (3 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 47.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.22077922
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 11 (3 total)
+POIs covered: 15/42 (35.71%)
+-------------------------------------------
+====== Results for 48.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.22261072
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 14/39 (35.90%)
+-------------------------------------------
+====== Results for 49.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.32844575
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 13/31 (41.94%)
+-------------------------------------------
+====== Results for 5.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.13571429
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 9 (3 total)
+POIs covered: 10/35 (28.57%)
+-------------------------------------------
+====== Results for 50.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.30376344
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 12 (2 total)
+POIs covered: 12/31 (38.71%)
+-------------------------------------------
+====== Results for 51.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.19756839
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 7, 12, 13 (4 total)
+POIs covered: 16/47 (34.04%)
+-------------------------------------------
+====== Results for 52.bmp ======
+Solution found in generation: 13
+Feasible: No
+Fitness: 0.25000000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10, 12 (3 total)
+POIs covered: 12/32 (37.50%)
+-------------------------------------------
+====== Results for 53.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.19913420
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10, 11 (4 total)
+POIs covered: 16/42 (38.10%)
+-------------------------------------------
+====== Results for 54.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.25284091
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 11/32 (34.38%)
+-------------------------------------------
+====== Results for 55.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.18972332
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 7, 9 (3 total)
+POIs covered: 15/46 (32.61%)
+-------------------------------------------
+====== Results for 56.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.13986014
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9 (2 total)
+POIs covered: 9/39 (23.08%)
+-------------------------------------------
+====== Results for 57.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.17473118
+Sensors placed at locations (indices < N_SENSOR_TYPES): 11, 12 (2 total)
+POIs covered: 8/31 (25.81%)
+-------------------------------------------
+====== Results for 58.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.14247312
+Sensors placed at locations (indices < N_SENSOR_TYPES): 9, 12 (2 total)
+POIs covered: 7/31 (22.58%)
+-------------------------------------------
+====== Results for 59.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.21070234
+Sensors placed at locations (indices < N_SENSOR_TYPES): 10, 12, 13 (3 total)
+POIs covered: 15/46 (32.61%)
+-------------------------------------------
+====== Results for 6.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.20542636
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 4, 7 (3 total)
+POIs covered: 16/43 (37.21%)
+-------------------------------------------
+====== Results for 60.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.13131313
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 11 (2 total)
+POIs covered: 6/27 (22.22%)
+-------------------------------------------
+====== Results for 61.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.16428571
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 11/35 (31.43%)
+-------------------------------------------
+====== Results for 62.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.15151515
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 6, 8, 10 (4 total)
+POIs covered: 14/44 (31.82%)
+-------------------------------------------
+====== Results for 63.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.19476268
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 10, 11, 12, 13 (6 total)
+POIs covered: 20/47 (42.55%)
+-------------------------------------------
+====== Results for 64.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.27097902
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 7, 12 (3 total)
+POIs covered: 17/44 (38.64%)
+-------------------------------------------
+====== Results for 65.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.25000000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 1, 5, 7, 11 (4 total)
+POIs covered: 19/44 (43.18%)
+-------------------------------------------
+====== Results for 66.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.18217054
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 8, 9 (3 total)
+POIs covered: 15/43 (34.88%)
+-------------------------------------------
+====== Results for 67.bmp ======
+Solution found in generation: 6
+Feasible: No
+Fitness: 0.22037422
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 11/37 (29.73%)
+-------------------------------------------
+====== Results for 68.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.08604651
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 7 (2 total)
+POIs covered: 8/43 (18.60%)
+-------------------------------------------
+====== Results for 69.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.17575758
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 11 (2 total)
+POIs covered: 12/45 (26.67%)
+-------------------------------------------
+====== Results for 7.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.12834225
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6, 9 (3 total)
+POIs covered: 9/34 (26.47%)
+-------------------------------------------
+====== Results for 70.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.20714286
+Sensors placed at locations (indices < N_SENSOR_TYPES): 9, 11, 12, 14 (4 total)
+POIs covered: 14/40 (35.00%)
+-------------------------------------------
+====== Results for 71.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.19729730
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 10 (2 total)
+POIs covered: 11/37 (29.73%)
+-------------------------------------------
+====== Results for 72.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.17118227
+Sensors placed at locations (indices < N_SENSOR_TYPES): 11 (1 total)
+POIs covered: 6/29 (20.69%)
+-------------------------------------------
+====== Results for 73.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.17380952
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10 (2 total)
+POIs covered: 9/35 (25.71%)
+-------------------------------------------
+====== Results for 74.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.25277778
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 11 (3 total)
+POIs covered: 17/45 (37.78%)
+-------------------------------------------
+====== Results for 75.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.27946128
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 11 (2 total)
+POIs covered: 10/27 (37.04%)
+-------------------------------------------
+====== Results for 76.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.12580645
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10 (2 total)
+POIs covered: 7/31 (22.58%)
+-------------------------------------------
+====== Results for 77.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.18706294
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 7, 10, 12 (4 total)
+POIs covered: 15/44 (34.09%)
+-------------------------------------------
+====== Results for 78.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.16071429
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 6, 10 (3 total)
+POIs covered: 10/35 (28.57%)
+-------------------------------------------
+====== Results for 79.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.12906977
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 8, 10 (3 total)
+POIs covered: 12/43 (27.91%)
+-------------------------------------------
+====== Results for 8.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.20785597
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 7, 12, 13 (4 total)
+POIs covered: 17/47 (36.17%)
+-------------------------------------------
+====== Results for 80.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.19656020
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 6, 8, 9 (4 total)
+POIs covered: 14/37 (37.84%)
+-------------------------------------------
+====== Results for 81.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.26392962
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 11 (2 total)
+POIs covered: 11/31 (35.48%)
+-------------------------------------------
+====== Results for 82.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.29285714
+Sensors placed at locations (indices < N_SENSOR_TYPES): 9, 12, 14 (3 total)
+POIs covered: 18/45 (40.00%)
+-------------------------------------------
+====== Results for 83.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.24358974
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 14/39 (35.90%)
+-------------------------------------------
+====== Results for 84.bmp ======
+Solution found in generation: 2
+Feasible: No
+Fitness: 0.23863636
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 11 (3 total)
+POIs covered: 16/44 (36.36%)
+-------------------------------------------
+====== Results for 85.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.15000000
+Sensors placed at locations (indices < N_SENSOR_TYPES): 2, 5, 7 (3 total)
+POIs covered: 11/40 (27.50%)
+-------------------------------------------
+====== Results for 86.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.21646341
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10, 12 (3 total)
+POIs covered: 14/41 (34.15%)
+-------------------------------------------
+====== Results for 87.bmp ======
+Solution found in generation: 5
+Feasible: No
+Fitness: 0.21794872
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10, 12 (3 total)
+POIs covered: 15/45 (33.33%)
+-------------------------------------------
+====== Results for 88.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.25595238
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 9, 12 (3 total)
+POIs covered: 16/42 (38.10%)
+-------------------------------------------
+====== Results for 89.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.16190476
+Sensors placed at locations (indices < N_SENSOR_TYPES): 7, 10 (2 total)
+POIs covered: 11/42 (26.19%)
+-------------------------------------------
+====== Results for 9.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.19696970
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 14/42 (33.33%)
+-------------------------------------------
+====== Results for 90.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.06535948
+Sensors placed at locations (indices < N_SENSOR_TYPES): 3, 6 (2 total)
+POIs covered: 6/34 (17.65%)
+-------------------------------------------
+====== Results for 91.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.33916084
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 10, 13 (3 total)
+POIs covered: 20/44 (45.45%)
+-------------------------------------------
+====== Results for 92.bmp ======
+Solution found in generation: 1
+Feasible: No
+Fitness: 0.15942029
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 9 (3 total)
+POIs covered: 15/46 (32.61%)
+-------------------------------------------
+====== Results for 93.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.21247357
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 7, 10 (3 total)
+POIs covered: 15/43 (34.88%)
+-------------------------------------------
+====== Results for 94.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.20396825
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 9, 13 (3 total)
+POIs covered: 14/45 (31.11%)
+-------------------------------------------
+====== Results for 95.bmp ======
+Solution found in generation: 0
+Feasible: No
+Fitness: 0.20168856
+Sensors placed at locations (indices < N_SENSOR_TYPES): 8, 10, 13 (3 total)
+POIs covered: 13/41 (31.71%)
+-------------------------------------------
+====== Results for 96.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.09313725
+Sensors placed at locations (indices < N_SENSOR_TYPES): 4, 10 (2 total)
+POIs covered: 6/34 (17.65%)
+-------------------------------------------
+====== Results for 97.bmp ======
+Solution found in generation: 4
+Feasible: No
+Fitness: 0.15248227
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 9, 10 (4 total)
+POIs covered: 15/47 (31.91%)
+-------------------------------------------
+====== Results for 98.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.24642857
+Sensors placed at locations (indices < N_SENSOR_TYPES): 6, 10, 12 (3 total)
+POIs covered: 13/35 (37.14%)
+-------------------------------------------
+====== Results for 99.bmp ======
+Solution found in generation: 3
+Feasible: No
+Fitness: 0.19913420
+Sensors placed at locations (indices < N_SENSOR_TYPES): 5, 7, 10, 11 (4 total)
+POIs covered: 16/42 (38.10%)
+-------------------------------------------
